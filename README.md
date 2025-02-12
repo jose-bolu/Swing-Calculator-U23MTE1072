@@ -14,6 +14,7 @@
          List of Members/Contributors:
 
 Students Names 	Matric Numbers 	GitHub Usernames 
+
 *AWODI Charles-Wesley	U23MTE1063	Charles-Wesley7 
 
 *ABDULRAUF Sulaiman Bukola	U23MTE1064	Sampa4life
@@ -21,11 +22,17 @@ Students Names 	Matric Numbers 	GitHub Usernames
 *AYOMIDE John Olamilekan	U23MTE1065	ShaLom-JoHn
 
 *IKWEN Matthias Angioshuye	U23MTE1067	MattyGitH001
+
 *OLADIGBOLU Ahmed-Selim Opeyemi	U23MTE1068	Ahmed2k195
+
 *AYINDE Ammar Olamide	U23MTE1069	Ola-leo
+
 *HASSAN Josiah Yamai	U23MTE1070	josiah-neitizen
+
 *SAMSON Emmanuel Zidyab	U23MTE1071	zidyab001
+
 *Ogundele Blouwatife Joseph	U23MTE1072	jose-bolu
+
 *Muhammed Yusuf Baba	U24MTE2001	Yusufbee91
 
 
@@ -40,9 +47,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 public class CalculatorApp implements ActionListener {
-	
 		double num1, num2, result = 0;
 	
 	 	JFrame frame= new JFrame ("Group 7 Calculator");
