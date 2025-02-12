@@ -15,8 +15,11 @@
 
 Students Names 	Matric Numbers 	GitHub Usernames 
 *AWODI Charles-Wesley	U23MTE1063	Charles-Wesley7 
+
 *ABDULRAUF Sulaiman Bukola	U23MTE1064	Sampa4life
+
 *AYOMIDE John Olamilekan	U23MTE1065	ShaLom-JoHn
+
 *IKWEN Matthias Angioshuye	U23MTE1067	MattyGitH001
 *OLADIGBOLU Ahmed-Selim Opeyemi	U23MTE1068	Ahmed2k195
 *AYINDE Ammar Olamide	U23MTE1069	Ola-leo
