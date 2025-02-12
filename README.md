@@ -49,7 +49,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 public class CalculatorApp implements ActionListener {
 		double num1, num2, result = 0;
-	
 	 	JFrame frame= new JFrame ("Group 7 Calculator");
 	    JLabel label = new JLabel();
 	    JTextField textField = new JTextField();
